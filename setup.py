@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-DIAMONDSBATTLE", # Replace with your own username
+    name="useless-DIAMONDSBATTLE", # Replace with your own username
     version="1.0",
     author="Louis Jarraud",
     author_email="diamondsbattle@gmail.com",
