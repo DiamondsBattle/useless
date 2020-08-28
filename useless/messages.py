@@ -1,4 +1,4 @@
-from globals import color_codes
+from useless.globals import color_codes
 
 class Message:
     def __init__(self, message: str):
