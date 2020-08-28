@@ -1,0 +1,11 @@
+README.md
+setup.py
+useless/__init__.py
+useless/globals.py
+useless/messages.py
+useless/queue.py
+useless/stack.py
+useless_DIAMONDSBATTLE.egg-info/PKG-INFO
+useless_DIAMONDSBATTLE.egg-info/SOURCES.txt
+useless_DIAMONDSBATTLE.egg-info/dependency_links.txt
+useless_DIAMONDSBATTLE.egg-info/top_level.txt
